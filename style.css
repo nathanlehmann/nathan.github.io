@@ -1,0 +1,38 @@
+body{
+    font-family: 'Permanent Marker', cursive;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+.mid{
+    display: flex;
+    justify-content: space-between;
+}
+.row{   
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width: 20%;
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+img{
+    width: 80%;
+}
+.aboutme{
+    border:1px solid black;   
+}
